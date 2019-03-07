@@ -1,5 +1,4 @@
-# hello-world
-just a joke
+# hello-Python
 
 The Zen of Python, by Tim Peters
 
