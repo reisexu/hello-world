@@ -1,4 +1,4 @@
-# hello-Python
+# Hello-Python
 
 The Zen of Python, by Tim Peters
 
